@@ -1,2 +1,2 @@
 # demo_collection
-所有有意义的demo合集
+这是我学习python的过程中做的一些相比来说有意义的demo，我将他们汇总呈现
